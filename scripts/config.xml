@@ -203,7 +203,7 @@
       <descr>System Administrator</descr>
       <scope>system</scope>
       <groupname>admins</groupname>
-      <password>$2y$10$qFtK.TZwdZyv.DF7a445BewIFggHXKkpXjtHIOXo.qGdZYnN4YceW</password>
+      <password>$2y$10$lrVTQ9mBrnuY4.zFtox4R.Epzgv./PQekKwL28nFEEgHyv2EGoAbO</password>
       <uid>0</uid>
       <expires/>
       <authorizedkeys/>
